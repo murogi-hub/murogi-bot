@@ -1,1 +1,0 @@
-# murogi-bot
